@@ -1,7 +1,9 @@
 ##### Hi there 👋 Welcome to...
 # Gutwork Games 🎮 
 
-We are an indie game dev studio aiming to release a fully fledged 2d metroidvania style fighter within the next two years!  
+We are an indie game dev studio of 2 people aiming to release a fully fledged 2d metroidvania style fighter title within the next two years!
+if you are interested in helping, or just want more information... we don't have anything yet. Sorry!
+
 <br><br>
 ## Stay Tuned!
 <!--
